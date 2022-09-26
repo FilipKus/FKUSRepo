@@ -1,0 +1,4 @@
+This is the starting step for the APSS project given to us. 
+
+Being part of the radio team, it was required for me to select necessary sensors to achieve the requirements of the project. This pin arrangement diagram was completed so that the Power team could begin their PCB design.
+Currently, research is being completed to further understand how the sensors will be used once the PCB is fully designed. 
