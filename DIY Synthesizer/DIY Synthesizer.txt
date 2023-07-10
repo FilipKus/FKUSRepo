@@ -1,3 +1,0 @@
-This is the starting circuit for the DIY Synthesizer Project. 
-
-I have been using a 12 volt power supply for this project. Since an op-amp is required in the VCO (voltage-controlled oscillator), a negative voltage generator was required which is shown on the right hand side of the photo. 
